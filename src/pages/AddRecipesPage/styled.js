@@ -18,6 +18,8 @@ export const ScreenContainer = styled.div`
 export const RecipeContainer = styled.div`
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
   width: 60vw;
   max-width: 600px;
   min-width: 300px;

@@ -5,7 +5,7 @@
 <br>
   
 ## :dart: Objetivo do projeto:
-O projeto é um app onde podemos cadastrar,visualizar receitas de comidas,o intuito principal é aplicar todo o conhecimento adquirido ao longo dos últimos 3 meses em um projeto complexo e completo, totalmente funcional. 
+O projeto é um app onde podemos fazer registo,visualizar receitas de comidas,o intuito principal é aplicar todo o conhecimento adquirido ao longo dos últimos 3 meses em um projeto complexo e completo, totalmente funcional. 
  
 
 ## :books: Bibliotecas utilizadas:

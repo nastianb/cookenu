@@ -19,10 +19,8 @@ Acesse nosso site [clicando aqui!](https://mexican.surge.sh/login)
 <br>
 
 ## 📸 Imagens:
-![<img width="1440" alt="Captura de ecrã 2022-08-30, às 11 18 58" src="https://user-images.githubusercontent.com/46450381/187412809-b9a36219-cc4b-48a6-99eb-2212d258d6e3.png">)
-![<img width="1440" alt="Captura de ecrã 2022-08-30, às 11 19 24" src="https://user-images.githubusercontent.com/46450381/187412946-e00dd2f4-9a6e-42a6-8695-913e896b4c6f.png">
-)
-
-![Captura de ecrã de 2022-08-15 12-17-35](https://user-images.githubusercontent.com/80003041/184626017-b2d583f1-f201-4a09-a85c-1b5cc901862b.png)
-![Captura de ecrã de 2022-08-15 12-17-42](https://user-images.githubusercontent.com/80003041/184626029-6596b806-1d5e-490a-9cec-c68fe1c2ece6.png)
-![Captura de ecrã de 2022-08-15 12-17-16](https://user-images.githubusercontent.com/80003041/184626041-b1b1959b-25c6-4ec9-b630-66d29801583a.png)
+<img width="1440" alt="Captura de ecrã 2022-08-30, às 11 18 58" src="https://user-images.githubusercontent.com/46450381/187412809-b9a36219-cc4b-48a6-99eb-2212d258d6e3.png">
+<img width="1440" alt="Captura de ecrã 2022-08-30, às 11 19 24" src="https://user-images.githubusercontent.com/46450381/187412946-e00dd2f4-9a6e-42a6-8695-913e896b4c6f.png">
+<img width="1438" alt="Captura de ecrã 2022-08-30, às 11 22 18" src="https://user-images.githubusercontent.com/46450381/187413720-fe8b54e9-ec92-44f5-a04e-97b1fa4d62d3.png">
+<img width="1435" alt="Captura de ecrã 2022-08-30, às 11 22 39" src="https://user-images.githubusercontent.com/46450381/187413784-9640880d-b9ec-4a0b-8d07-6365d9263182.png">
+<img width="1438" alt="Captura de ecrã 2022-08-30, às 11 24 05" src="https://user-images.githubusercontent.com/46450381/187413848-ed1011af-5d7e-453d-b98d-cfa9716138e5.png">

@@ -15,7 +15,7 @@ O projeto é um app onde podemos fazer registo,visualizar receitas de comidas,o 
 - [material ui](https://mui.com/)
 - [API utilizada no projeto](https://documenter.getpostman.com/view/9133542/U16dQniU)
 ## 🔗 Link Surge: 
-Acesse nosso site [clicando aqui!](https://mexican.surge.sh/login)
+Acesse nosso site [clicando aqui!](https://cookenu.vercel.app/login)
 <br>
 
 ## 📸 Imagens:
